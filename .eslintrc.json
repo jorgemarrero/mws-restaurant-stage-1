@@ -1,0 +1,6 @@
+{
+  "extends": "fullstack",
+  "rules": {
+    "linebreak-style": 0
+  }
+}

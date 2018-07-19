@@ -1,0 +1,18 @@
+{
+  "name": "mws-restaurant-stage-1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:jorgemarrero/mws-restaurant-stage-1.git",
+  "author": "Jorge Marrero <jorge@secret-source.eu>",
+  "license": "MIT",
+  "devDependencies": {
+    "@strv/eslint-config-javascript": "^8.0.4",
+    "eslint": "^5.1.0"
+  },
+  "dependencies": {
+    "babel-eslint": "^8.2.6",
+    "eslint-config-fullstack": "^5.0.0",
+    "eslint-config-strongloop": "^2.1.0",
+    "eslint-plugin-react": "^7.10.0"
+  }
+}
